@@ -16,3 +16,6 @@ npm install dotenv
 
 ืnpm run dev
 npm run start
+
+-ติดตั้ง 
+ืnpm install
